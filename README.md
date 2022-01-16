@@ -14,4 +14,4 @@
 * Система контроля версий GIT
 * Файловая структура по методологии БЭМ
 
- Ссылка на проект на [GitHubPages](https://pages.github.com/)
+ Ссылка на проект на [GitHubPages](https://vovitolog.github.io/russian-travel/)
