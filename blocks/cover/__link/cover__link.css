@@ -25,3 +25,19 @@
     min-height: 200px;
   }
 }
+
+.cover__link:before {
+  position: absolute;
+  content: "";
+  left:0;
+  top:0;
+  right: 0;
+  bottom: 0;
+  background-color: #2A2C2F;
+  opacity: 0.3;
+}
+
+.cover__link:hover:before {
+  transition: opacity 0.3s ease-out;
+  opacity: 0.8;
+}
