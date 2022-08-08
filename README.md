@@ -1,4 +1,4 @@
-Одностраничный сайт "Путешествия по России".
+# Одностраничный сайт "Путешествия по России".
 
 ## Описание
 
@@ -6,8 +6,8 @@
 
 Реализован подход Desktop First.
 
-### [Демо проекта](https://vovitolog.github.io/russian-travel/).
-### [Макет](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0).
+### [Демо проекта](https://vovitolog.github.io/russian-travel/)
+### [Макет](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 ## При реализации использованы:
 
